@@ -1,1 +1,1 @@
-# sampleproj1
+# sampleproj1 - for exploring
