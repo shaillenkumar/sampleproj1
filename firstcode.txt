@@ -1,3 +1,4 @@
 user input
 new feature1
 feature 1 modified to feature 2
+feature 2 modified
