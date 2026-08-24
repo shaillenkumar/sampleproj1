@@ -2,5 +2,4 @@ Adding user authentication
 Adding Authorization
 Adding Users and roles
 define previlges
-Connecting to Oracle DB
-
+Connecting to PostgresSQL
