@@ -3,3 +3,11 @@ Adding Authorization
 Adding Users and roles
 define previlges
 Connecting to PostgresSQL
+... you switch to feature branch
+... you are doing some work
+... now you get interrupted you got to switch to main to fix emergency issue
+... and since this work is WIP you dont want to commit
+... but if you switch without commit you will lose your changes...
+... so you do git stash
+... you can restore with #git stash list # git stash apply
+
